@@ -1,0 +1,796 @@
+[
+    {
+        "id": 1,
+        "title": "Supreme Magus",
+        "tags": [
+            "harem",
+            "horror",
+            "reincarnation",
+            "villain protagonist",
+            "martial arts",
+            "mystery",
+            "cultivation",
+            "supernatural"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "My Vampire System",
+        "tags": [
+            "isekai",
+            "virtual reality",
+            "fantasy",
+            "cultivation",
+            "harem",
+            "reincarnation",
+            "supernatural",
+            "martial arts"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Shadow Slave",
+        "tags": [
+            "martial arts",
+            "harem",
+            "virtual reality",
+            "fantasy",
+            "horror",
+            "supernatural",
+            "cultivation",
+            "female protagonist",
+            "magic",
+            "villain protagonist",
+            "game elements",
+            "science fiction",
+            "mystery",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Mech Touch",
+        "tags": [
+            "mystery",
+            "comedy",
+            "villain protagonist",
+            "adventure",
+            "martial arts",
+            "game elements",
+            "drama"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Super Gene",
+        "tags": [
+            "magic",
+            "villain protagonist",
+            "isekai",
+            "game elements",
+            "action"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Dimensional Descent",
+        "tags": [
+            "cultivation",
+            "reincarnation",
+            "science fiction",
+            "virtual reality",
+            "supernatural",
+            "mystery",
+            "horror",
+            "magic",
+            "game elements",
+            "action"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Allure Of The Night",
+        "tags": [
+            "science fiction",
+            "virtual reality",
+            "comedy",
+            "adventure",
+            "isekai",
+            "action",
+            "supernatural",
+            "reincarnation",
+            "magic",
+            "game elements",
+            "female protagonist",
+            "horror",
+            "mystery"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Legendary Mechanic",
+        "tags": [
+            "harem",
+            "magic",
+            "game elements",
+            "cultivation",
+            "reincarnation",
+            "science fiction",
+            "action",
+            "romance"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Library of Heaven's Path",
+        "tags": [
+            "martial arts",
+            "villain protagonist",
+            "comedy",
+            "magic",
+            "isekai",
+            "romance"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Affinity:Chaos",
+        "tags": [
+            "adventure",
+            "fantasy",
+            "martial arts",
+            "magic",
+            "villain protagonist",
+            "horror",
+            "mystery",
+            "romance",
+            "female protagonist",
+            "action",
+            "supernatural"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Only I Level Up (Solo Leveling)",
+        "tags": [
+            "reincarnation",
+            "martial arts",
+            "action",
+            "game elements",
+            "mystery",
+            "virtual reality",
+            "romance",
+            "isekai",
+            "villain protagonist",
+            "drama",
+            "comedy"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Hellbound Heart",
+        "tags": [
+            "reincarnation",
+            "harem",
+            "drama",
+            "villain protagonist",
+            "mystery",
+            "virtual reality",
+            "action",
+            "horror",
+            "romance",
+            "game elements",
+            "science fiction",
+            "fantasy",
+            "martial arts"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Monster Integration",
+        "tags": [
+            "mystery",
+            "fantasy",
+            "magic",
+            "adventure",
+            "cultivation"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Supremacy Games",
+        "tags": [
+            "virtual reality",
+            "mystery",
+            "game elements",
+            "horror",
+            "science fiction",
+            "drama",
+            "reincarnation",
+            "female protagonist"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Astral Pet Store",
+        "tags": [
+            "science fiction",
+            "virtual reality",
+            "isekai",
+            "comedy",
+            "magic",
+            "action",
+            "cultivation",
+            "adventure",
+            "romance",
+            "female protagonist",
+            "mystery"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "SPELLBOUND",
+        "tags": [
+            "villain protagonist",
+            "romance",
+            "harem",
+            "drama",
+            "cultivation",
+            "female protagonist",
+            "game elements",
+            "horror",
+            "action",
+            "isekai",
+            "adventure",
+            "virtual reality",
+            "martial arts",
+            "science fiction",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Tyranny of Steel",
+        "tags": [
+            "horror",
+            "villain protagonist",
+            "science fiction",
+            "comedy",
+            "virtual reality",
+            "mystery",
+            "drama",
+            "action",
+            "cultivation",
+            "martial arts",
+            "game elements",
+            "reincarnation",
+            "adventure",
+            "romance",
+            "female protagonist"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "The Alpha's Bride",
+        "tags": [
+            "science fiction",
+            "magic",
+            "villain protagonist",
+            "drama",
+            "cultivation",
+            "female protagonist"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Release That Witch",
+        "tags": [
+            "action",
+            "martial arts",
+            "fantasy",
+            "magic",
+            "horror",
+            "game elements",
+            "adventure",
+            "reincarnation",
+            "comedy",
+            "isekai",
+            "cultivation",
+            "drama",
+            "science fiction",
+            "mystery"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "My Werewolf System",
+        "tags": [
+            "martial arts",
+            "comedy",
+            "harem",
+            "adventure",
+            "female protagonist",
+            "horror",
+            "reincarnation",
+            "virtual reality",
+            "magic",
+            "mystery",
+            "isekai",
+            "romance"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Rosie's Games",
+        "tags": [
+            "female protagonist",
+            "action",
+            "harem",
+            "drama",
+            "comedy",
+            "martial arts",
+            "adventure",
+            "horror",
+            "romance",
+            "cultivation",
+            "magic"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Young master Damien's pet",
+        "tags": [
+            "female protagonist",
+            "fantasy",
+            "magic",
+            "comedy",
+            "science fiction",
+            "drama",
+            "isekai",
+            "virtual reality"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Eternal Sacred King",
+        "tags": [
+            "romance",
+            "supernatural",
+            "adventure",
+            "action",
+            "fantasy",
+            "magic",
+            "cultivation",
+            "science fiction",
+            "mystery",
+            "horror",
+            "drama"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "The Oracle Paths",
+        "tags": [
+            "drama",
+            "virtual reality",
+            "romance",
+            "villain protagonist",
+            "reincarnation",
+            "science fiction",
+            "horror",
+            "cultivation",
+            "supernatural",
+            "isekai",
+            "comedy",
+            "harem",
+            "mystery",
+            "action",
+            "game elements"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Divine Emperor of Death",
+        "tags": [
+            "science fiction",
+            "horror",
+            "cultivation",
+            "drama",
+            "villain protagonist",
+            "fantasy",
+            "isekai",
+            "harem",
+            "reincarnation",
+            "virtual reality",
+            "female protagonist",
+            "comedy",
+            "supernatural",
+            "action",
+            "martial arts"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "The Bloodline System",
+        "tags": [
+            "drama",
+            "reincarnation",
+            "comedy",
+            "science fiction",
+            "mystery",
+            "fantasy",
+            "action",
+            "game elements",
+            "cultivation",
+            "romance",
+            "adventure",
+            "villain protagonist"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Paragon of Sin",
+        "tags": [
+            "isekai",
+            "villain protagonist",
+            "supernatural",
+            "virtual reality",
+            "romance",
+            "martial arts",
+            "game elements"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "The Crown's Obsession",
+        "tags": [
+            "cultivation",
+            "drama",
+            "horror",
+            "isekai",
+            "mystery",
+            "science fiction",
+            "romance",
+            "martial arts",
+            "villain protagonist",
+            "reincarnation",
+            "action",
+            "virtual reality",
+            "female protagonist",
+            "magic"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "The King's Avatar",
+        "tags": [
+            "magic",
+            "supernatural",
+            "horror",
+            "science fiction",
+            "cultivation",
+            "fantasy",
+            "female protagonist",
+            "drama",
+            "isekai",
+            "game elements",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "The Witch Hunter System",
+        "tags": [
+            "action",
+            "romance",
+            "supernatural",
+            "cultivation",
+            "comedy",
+            "female protagonist",
+            "fantasy",
+            "harem",
+            "martial arts",
+            "science fiction",
+            "horror",
+            "drama",
+            "isekai",
+            "game elements",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Death... and me, Hero of Darkness",
+        "tags": [
+            "mystery",
+            "supernatural",
+            "isekai",
+            "science fiction",
+            "harem",
+            "game elements"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Monster Paradise",
+        "tags": [
+            "supernatural",
+            "harem",
+            "female protagonist",
+            "adventure",
+            "horror",
+            "mystery",
+            "virtual reality"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Divine Path System",
+        "tags": [
+            "comedy",
+            "drama",
+            "isekai",
+            "reincarnation",
+            "harem",
+            "action",
+            "horror",
+            "villain protagonist",
+            "supernatural",
+            "science fiction",
+            "martial arts",
+            "adventure",
+            "magic",
+            "virtual reality"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Second World",
+        "tags": [
+            "science fiction",
+            "virtual reality",
+            "game elements",
+            "comedy",
+            "adventure",
+            "reincarnation",
+            "romance"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Monarch of Time",
+        "tags": [
+            "reincarnation",
+            "martial arts",
+            "horror",
+            "magic",
+            "mystery"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Walker Of The Worlds",
+        "tags": [
+            "game elements",
+            "mystery",
+            "horror",
+            "magic",
+            "martial arts",
+            "isekai",
+            "adventure",
+            "fantasy",
+            "action",
+            "reincarnation",
+            "villain protagonist"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Letters to Romeo.",
+        "tags": [
+            "reincarnation",
+            "game elements",
+            "supernatural",
+            "horror",
+            "drama",
+            "magic",
+            "comedy"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "King of Gods",
+        "tags": [
+            "cultivation",
+            "game elements",
+            "supernatural",
+            "martial arts",
+            "comedy",
+            "action",
+            "isekai",
+            "adventure",
+            "magic",
+            "villain protagonist"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "God's Eyes",
+        "tags": [
+            "supernatural",
+            "cultivation",
+            "magic",
+            "reincarnation",
+            "mystery",
+            "drama",
+            "comedy",
+            "fantasy",
+            "game elements"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Gourmet of Another World",
+        "tags": [
+            "mystery",
+            "harem",
+            "female protagonist",
+            "cultivation",
+            "fantasy",
+            "magic",
+            "adventure"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Beauty and the Beasts",
+        "tags": [
+            "isekai",
+            "female protagonist",
+            "villain protagonist",
+            "magic",
+            "cultivation"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Tales of Demons and Gods",
+        "tags": [
+            "romance",
+            "mystery",
+            "virtual reality",
+            "isekai",
+            "magic",
+            "cultivation",
+            "horror",
+            "comedy",
+            "science fiction",
+            "female protagonist",
+            "adventure",
+            "supernatural",
+            "harem",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Martial Peak",
+        "tags": [
+            "mystery",
+            "comedy",
+            "magic",
+            "reincarnation",
+            "virtual reality",
+            "supernatural",
+            "martial arts",
+            "harem",
+            "adventure",
+            "action"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Psychic Princess",
+        "tags": [
+            "cultivation",
+            "female protagonist",
+            "mystery",
+            "virtual reality",
+            "adventure",
+            "romance",
+            "supernatural",
+            "reincarnation",
+            "science fiction",
+            "magic"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "The Divine Doctor",
+        "tags": [
+            "villain protagonist",
+            "drama",
+            "reincarnation",
+            "game elements",
+            "action",
+            "virtual reality",
+            "magic",
+            "female protagonist",
+            "science fiction"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Battle Frenzy",
+        "tags": [
+            "fantasy",
+            "drama",
+            "romance",
+            "virtual reality",
+            "supernatural",
+            "villain protagonist"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Shadow Hack",
+        "tags": [
+            "game elements",
+            "virtual reality",
+            "female protagonist",
+            "science fiction",
+            "cultivation",
+            "action",
+            "isekai",
+            "drama",
+            "harem",
+            "martial arts",
+            "horror",
+            "reincarnation",
+            "magic"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "The Bestselling Empress",
+        "tags": [
+            "magic",
+            "isekai",
+            "comedy",
+            "game elements",
+            "adventure",
+            "supernatural",
+            "fantasy",
+            "martial arts",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Astral Sutra",
+        "tags": [
+            "science fiction",
+            "romance",
+            "drama",
+            "female protagonist",
+            "mystery",
+            "harem",
+            "magic",
+            "adventure",
+            "comedy",
+            "reincarnation"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Swallowed Star",
+        "tags": [
+            "reincarnation",
+            "adventure",
+            "martial arts",
+            "science fiction",
+            "fantasy",
+            "romance"
+        ]
+    }
+]
